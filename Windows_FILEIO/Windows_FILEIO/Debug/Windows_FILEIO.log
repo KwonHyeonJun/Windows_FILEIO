@@ -1,0 +1,10 @@
+﻿Build started 2015-07-22 오전 3:17:11.
+Project "C:\Users\BoB_Network\Documents\Visual Studio 2012\Projects\Windows_FILEIO\Windows_FILEIO\Windows_FILEIO.vcxproj" on node 2 (ClCompile target(s)).
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Windows_FileIO.cpp
+  Windows_FileIO.cpp
+Done Building Project "C:\Users\BoB_Network\Documents\Visual Studio 2012\Projects\Windows_FILEIO\Windows_FILEIO\Windows_FILEIO.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.25
